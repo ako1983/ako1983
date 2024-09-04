@@ -10,4 +10,4 @@ I'm a researcher interested in 🌊 climate change ♒ artificial intelligence �
 
 💬 Ask me about: Climate Change - Artificial Intelligence - Chess - History of Persia 🐈‍⬛ 🌸 🤗
 
-⚡ Fun fact: I can play chess blindfully! 👺!
+⚡ Fun fact: I can play chess blindfully! 👺
