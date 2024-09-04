@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to my :octocat: world! ♎
 
-<!--
-**ako1983/ako1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher interested in 🌊 climate change ♒ artificial intelligence 🛰️
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Fine Tunning an LLM for an exciting project! ♟️♟️♟️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Kolmogorov-Arnold representation theorem 🧑‍🔬 & Physics Informed Deep Learning 🏹
+
+👯 I’m looking to collaborate on projects within the intersection of climate change + AI: 🌎 + 🤖
+
+💬 Ask me about: Climate Change - Artificial Intelligence - Chess - History of Persia 🐈‍⬛ 🌸 🤗
+
+⚡ Fun fact: I can play chess blindfully! 👺![image](https://github.com/user-attachments/assets/7093e92a-6c94-4999-b4bf-c419028422c9)
